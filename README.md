@@ -1,0 +1,2 @@
+# RetrofitandCoroutine
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fac36f87acd34f73a52b188559cd4438)](https://app.codacy.com/app/furkanaskin/RetrofitandCoroutine?utm_source=github.com&utm_medium=referral&utm_content=furkanaskin/RetrofitandCoroutine&utm_campaign=Badge_Grade_Dashboard)
